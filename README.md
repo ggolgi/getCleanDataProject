@@ -40,7 +40,9 @@ https://s3.amazonaws.com/coursera-uploads/user-0f6f7189bd259b901c471b21/973500/a
 Content of the repository:
 ============================
 -code for performing the analysis: run_analysis.r file
+
 -CodeBook.md that describes the variables, the data and the design of the "original" experiment ("Human Activity Recognition Using Smartphones Dataset (Version 1.0)")
+
 -this README.md file that describe how the script works.
 
 This repository does not incude the output tidy data set.
